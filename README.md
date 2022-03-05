@@ -1,6 +1,9 @@
 ### Hey everyone! My name is Eoin 👋
-<div class="tenor-gif-embed" data-postid="10897308" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/waving-wave-hand-emoji-gif-10897308">Waving Wave GIF</a>from <a href="https://tenor.com/search/waving-gifs">Waving GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+https://tenor.com/view/waving-wave-hand-emoji-gif-10897308
+
 I am a passionate final-year student who loves game design, game development and coding.
+
 ![LinkedIn_logo_initials](https://user-images.githubusercontent.com/93496368/156872806-08643b0d-592b-4aa9-9d82-83ace3356036.png)
 
 <!--
