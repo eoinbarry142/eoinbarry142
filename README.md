@@ -1,8 +1,9 @@
-### Hey everyone! My name is Eoin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hey everyone! My name is Eoin  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am a passionate final-year student who loves game design, game development and coding.
 
-![LinkedIn_logo_initials](https://user-images.githubusercontent.com/93496368/156872806-08643b0d-592b-4aa9-9d82-83ace3356036.png)
+![LinkedIn_logo_initials](https://user-images.githubusercontent.com/93496368/156872913-b3d08903-8500-4b18-a13f-31d49f2a83fb.png)
+
 
 <!--
 **eoinbarry142/eoinbarry142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
