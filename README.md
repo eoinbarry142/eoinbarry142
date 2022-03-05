@@ -2,8 +2,9 @@
 
 I am a passionate final-year student who loves game design, game development and coding.
 
-![LinkedIn_logo_initials](https://user-images.githubusercontent.com/93496368/156872913-b3d08903-8500-4b18-a13f-31d49f2a83fb.png)
+![LinkedIn_logo_initials](https://user-images.githubusercontent.com/93496368/156872954-b27270f7-640b-4979-b222-11bcb13b03e6.png) Follow me on LinkedIn
 
+💻 
 
 <!--
 **eoinbarry142/eoinbarry142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
