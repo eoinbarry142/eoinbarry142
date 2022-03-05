@@ -1,5 +1,12 @@
-### Hey everyone! 👋
+### Hey everyone! My name is Eoin 👋
+<div class="tenor-gif-embed" data-postid="10897308" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/waving-wave-hand-emoji-gif-10897308">Waving Wave GIF</a>from <a href="https://tenor.com/search/waving-gifs">Waving GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+I am a passionate final-year student who loves game design, game development and coding.
+![LinkedIn_logo_initials](https://user-images.githubusercontent.com/93496368/156872806-08643b0d-592b-4aa9-9d82-83ace3356036.png)
 
+<!--
+**eoinbarry142/eoinbarry142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -8,11 +15,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!--
-**eoinbarry142/eoinbarry142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 
 -->
