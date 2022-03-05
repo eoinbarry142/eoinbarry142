@@ -1,6 +1,6 @@
 ### Hey everyone! My name is Eoin 👋
 
-https://tenor.com/view/waving-wave-hand-emoji-gif-10897308
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am a passionate final-year student who loves game design, game development and coding.
 
