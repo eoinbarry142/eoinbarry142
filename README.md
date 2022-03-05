@@ -1,6 +1,4 @@
-### Hey everyone! My name is Eoin 👋
-
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hey everyone! My name is Eoin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am a passionate final-year student who loves game design, game development and coding.
 
