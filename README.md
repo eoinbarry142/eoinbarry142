@@ -1,10 +1,11 @@
 ### Hey everyone! My name is Eoin  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![LinkedIn_logo_initials](https://user-images.githubusercontent.com/93496368/156873195-6be46dc8-14c9-438e-859d-eba9ad8f648c.png)
+![LinkedIn_logo_initials](https://user-images.githubusercontent.com/93496368/156873214-6084a313-1b80-480d-b96b-81f80e93e355.png)
 
 I am a passionate final-year student who loves game design, game development and coding.
 
 💻 You can find some of my college work such as an AI stock prediction program or my Unreal Engine 4th year project pinned below!
+
 🚀 I'm also working on some passion projects and coding experiments in my free time that will be pinned below or in my repositories tab.
 
 <!--
