@@ -1,6 +1,6 @@
 ### Hey everyone! My name is Eoin  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![LinkedIn_logo_initials](https://user-images.githubusercontent.com/93496368/156872954-b27270f7-640b-4979-b222-11bcb13b03e6.png) Follow me on LinkedIn
+![LinkedIn_logo_initials](https://user-images.githubusercontent.com/93496368/156873195-6be46dc8-14c9-438e-859d-eba9ad8f648c.png)
 
 I am a passionate final-year student who loves game design, game development and coding.
 
