@@ -1,10 +1,11 @@
 ### Hey everyone! My name is Eoin  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a passionate final-year student who loves game design, game development and coding.
-
 ![LinkedIn_logo_initials](https://user-images.githubusercontent.com/93496368/156872954-b27270f7-640b-4979-b222-11bcb13b03e6.png) Follow me on LinkedIn
 
-💻 
+I am a passionate final-year student who loves game design, game development and coding.
+
+💻 You can find some of my college work such as an AI stock prediction program or my Unreal Engine 4th year project pinned below!
+🚀 I'm also working on some passion projects and coding experiments in my free time that will be pinned below or in my repositories tab.
 
 <!--
 **eoinbarry142/eoinbarry142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
