@@ -1,6 +1,6 @@
 ### Hey everyone! My name is Eoin  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a passionate final-year student who loves game design, game development and coding.
+I am an Associate Software Engineer currently working at Optum.
 
 💻 You can find some of my college work pinned below such as an AI stock prediction program or my Unreal Engine 4th-year project!
 
